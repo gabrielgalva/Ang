@@ -1,0 +1,89 @@
+.list-container{
+    text-align: center;
+    margin: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+
+  input[type="text"]:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+  }
+
+  /* list-items.component.css */
+
+/* Estilos para o botão "Add" */
+button[type="submit"] {
+    padding: 8px 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+ 
+  button[type="submit"]:focus,
+  button[type="submit"]:hover {
+    outline: none;
+    background-color: #2980b9;
+
+  }
+  
+
+  button {
+    padding: 6px 12px;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
+    background-color: #e74c3c;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 5px;
+  }
+  
+  .but{
+    background-color:#2ecc71;
+  }
+
+  button:focus,
+  button:hover {
+    outline: none;
+
+    background-color: #c0392b;
+  }
+  
+  li {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    font-size:17px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    max-width: 200px; 
+    margin: 0 auto; 
+    margin-bottom: 10px;
+  }
+  
+  .completed {
+    background-color: yellow ;
+  }
+  li:hover {
+    background-color: #e0e0e0;
+  }
+  

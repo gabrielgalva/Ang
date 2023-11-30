@@ -1,0 +1,82 @@
+{
+    "alunos": [
+      {
+        "matricula": 12345,
+        "nome": "João Silva",
+        "idade": 20,
+        "curso": "Engenharia da Computação",
+        "rendimentoEscolar": {
+          "P00": 8.5,
+          "Front-end": 9.2,
+          "Back-end": 7.8
+        }
+      },
+      {
+        "matricula": 67890,
+        "nome": "Gabriel Galvão",
+        "idade": 21,
+        "curso": "Ciência da Computação",
+        "rendimentoEscolar": {
+          "P00": 7.5,
+          "Front-end": 8.8,
+          "Back-end": 6.9
+        }
+      },
+      {
+        "matricula": 13579,
+        "nome": "Juliana Camilo",
+        "idade": 22,
+        "curso": "Sistemas de Informação",
+        "rendimentoEscolar": {
+          "P00": 9.0,
+          "Front-end": 9.5,
+          "Back-end": 8.0
+        }
+      },
+      {
+        "matricula": 24680,
+        "nome": "João Freire",
+        "idade": 23,
+        "curso": "Engenharia da Computação",
+        "rendimentoEscolar": {
+          "P00": 8.2,
+          "Front-end": 9.1,
+          "Back-end": 7.5
+        }
+      },
+      {
+        "matricula": 98765,
+        "nome": "Leonardo Nadolny",
+        "idade": 24,
+        "curso": "Sistemas de Informação",
+        "rendimentoEscolar": {
+          "P00": 7.8,
+          "Front-end": 8.5,
+          "Back-end": 7.0
+        }
+      },
+      {
+        "matricula": 54321,
+        "nome": "Matheus Vitor",
+        "idade": 25,
+        "curso": "Ciência da Computação",
+        "rendimentoEscolar": {
+          "P00": 8.9,
+          "Front-end": 9.3,
+          "Back-end": 8.2
+        }
+      },
+      {
+        "matricula": 11223,
+        "nome": "Talisson Marcelo",
+        "idade": 26,
+        "curso": "Ciência da Computação",
+        "rendimentoEscolar": {
+          "P00": 9.5,
+          "Front-end": 9.8,
+          "Back-end": 9.0
+        }
+      }
+    ]
+  }
+  
